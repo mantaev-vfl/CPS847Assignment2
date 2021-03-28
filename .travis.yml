@@ -1,5 +1,6 @@
 language: python
-rvm:
-  - 3.8
-  
+python:
+  - "3.7"
+script: python unittest.py
+
  
